@@ -1,0 +1,15 @@
+version: '3'
+services:
+
+ apache:
+  container_name: maximaweb 
+  build:
+    context: ./
+  ports:
+   - "80:80"
+  restart: always
+  volumes:
+   - ./app:/var/www/html 
+   
+  
+ 
