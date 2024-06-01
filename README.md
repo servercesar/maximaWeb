@@ -8,4 +8,8 @@ En la carpeta app se aloja el proyecto web Yamwi, el mismo esta compartido con u
 
 Puesta en marcha: Clonar el repo, ingresar a la carpata y levantar el proyecto con un docker-compose
 
+- git clone https://github.com/servercesar/maximaWeb.git
+- cd maximaWeb
+- docker-compose up -d
+
 
