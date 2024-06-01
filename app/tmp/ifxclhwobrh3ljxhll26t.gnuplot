@@ -1,5 +1,5 @@
 set terminal png enhanced truecolor  size 400, 300
-set out '/var/www/html/tmp/2qxxz3hchg1tpfpdc42u2.g.3.1.1.png'
+set out '/var/www/html/tmp/ifxclhwobrh3ljxhll26t.g.1.1.1.png'
 if(GPVAL_VERSION >= 5.0){set for [i=1:8] linetype i dashtype i; set format '%h'}
 set zero 0.0
 set datafile separator whitespace
@@ -35,5 +35,5 @@ set pm3d at s depthorder explicit
 set colorbox
 set cblabel ''
 set palette rgbformulae 7,5,15
-splot '/var/www/html/tmp/2qxxz3hchg1tpfpdc42u2.data' index 0 notitle w l lw 1 lt 1 lc rgb '#0000ff'
+splot '/var/www/html/tmp/ifxclhwobrh3ljxhll26t.data' index 0 notitle w l lw 1 lt 1 lc rgb '#0000ff'
 unset output

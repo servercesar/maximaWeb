@@ -1,0 +1,2 @@
+(maxima_tempdir: "/var/www/html/tmp",%codigo_usuario%: "dykshgf5xxgnytj2zotrk",%num_proceso%: "1",%dir_sources%: "/var/www/html/packages",load("/var/www/html/yamwi.mac"),load("/var/www/html/yamwi.lisp"),"%%%")$
+translate_into_print([])$

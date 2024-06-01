@@ -1,3 +1,0 @@
-(maxima_tempdir: "/var/www/html/tmp",%codigo_usuario%: "2qxxz3hchg1tpfpdc42u2",%num_proceso%: "3",%dir_sources%: "/var/www/html/packages",load("/var/www/html/yamwi.mac"),load("/var/www/html/yamwi.lisp"),"%%%")$
-translate_into_print(["
-Draw3d(explicit(x^2+y^2,x,-1,1,y,-1,1));"])$
